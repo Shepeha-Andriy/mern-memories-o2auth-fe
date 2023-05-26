@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mern-memories-o2auth-fe/static/css/main.7bfad5cb.css",
+    "main.js": "/mern-memories-o2auth-fe/static/js/main.6b6af70e.js",
+    "static/media/memories.png": "/mern-memories-o2auth-fe/static/media/memories.9cfa8a4697e085d87136.png",
+    "index.html": "/mern-memories-o2auth-fe/index.html",
+    "main.7bfad5cb.css.map": "/mern-memories-o2auth-fe/static/css/main.7bfad5cb.css.map",
+    "main.6b6af70e.js.map": "/mern-memories-o2auth-fe/static/js/main.6b6af70e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bfad5cb.css",
+    "static/js/main.6b6af70e.js"
+  ]
+}
